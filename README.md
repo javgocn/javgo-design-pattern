@@ -74,4 +74,4 @@
 
 ---
 
-感谢你的关注和贡献！如果你有任何问题或建议，请随时提 [issue](https://github.com/your-repo/design-patterns/issues)。
+感谢你的关注和贡献！如果你有任何问题或建议，请随时提 [issue](https://github.com/javgocn/javgo-design-pattern/issues)。
